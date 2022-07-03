@@ -1,0 +1,27 @@
+{
+  "name": "npm-random-msg",
+  "version": "1.0.0",
+  "description": "Npm para mensajes aleatorios.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deiviiss/npm-random.git"
+  },
+  "keywords": [
+    "npm",
+    "JavaScript"
+  ],
+  "author": "David Hilera <david.hilera@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/deiviiss/npm-random/issues"
+  },
+  "homepage": "https://github.com/deiviiss/npm-random#readme"
+}
